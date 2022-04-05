@@ -1,0 +1,13 @@
+23.589844 	 30.000000 	 25.000000 	 Freeze Warning 
+23.589844 	 30.000000 	 25.000000 	 Freeze Warning 
+23.589844 	 30.000000 	 25.000000 	 Freeze Warning 
+23.589844 	 30.000000 	 25.000000 	 Freeze Warning 
+23.589844 	 30.000000 	 25.000000 	 Freeze Warning 
+23.589844 	 30.000000 	 25.000000 	 Freeze Warning 
+24.566406 	 30.000000 	 25.000000 	 Freeze Warning 
+30.425781 	 30.000000 	 25.000000 	 Heatstroke Warning 
+30.914062 	 30.000000 	 25.000000 	 Heatstroke Warning 
+30.914062 	 30.000000 	 25.000000 	 Heatstroke Warning 
+31.402344 	 30.000000 	 25.000000 	 Heatstroke Warning 
+30.914062 	 30.000000 	 25.000000 	 Heatstroke Warning 
+30.425781 	 30.000000 	 25.000000 	 Heatstroke Warning 
